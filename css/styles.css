@@ -1,7 +1,7 @@
 .heading h1{
   text-align: center;
   font-size: 95px;
-  color: white;
+  color: green
 }
 
 .heading p{
@@ -13,10 +13,6 @@
 
 .listlink {
   color: red;
-}
-
-.homebody{
-  background-color: green;
 }
 
 .presidentimg{
@@ -31,6 +27,26 @@
 
 .president p{
   
+}
+
+.presidentbody{
+  background-color: green;
+}
+
+.flag{
+  padding-left: 350px;
+}
+.history h1{
+  text-align: center;
+  color: white;
+}
+
+.history p{
+  color: white;
+}
+
+.historybody{
+  background-color: green;
 }
 
 *{
